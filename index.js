@@ -12,6 +12,11 @@ const testFunction = (path) => {
   if (path === 'path-3') {
     return 'path 3 return'
   }
+
+
+  if (path === 'path-4') {
+    return 'path 4 return'
+  }
 }
 
 module.exports = {
