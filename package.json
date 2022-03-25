@@ -4,7 +4,8 @@
   "description": "testing code coverage tool",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test-coverage": "jest --collect-coverage"
   },
   "repository": {
     "type": "git",
