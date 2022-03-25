@@ -1,0 +1,22 @@
+{
+  "name": "code-cov-test",
+  "version": "1.0.0",
+  "description": "testing code coverage tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlewis87/code-cov-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlewis87/code-cov-test/issues"
+  },
+  "homepage": "https://github.com/dlewis87/code-cov-test#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
